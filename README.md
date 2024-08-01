@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Thiago Rafael 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thuy_rx/) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Thuy#9085)
 
 ![Thuyrx GitHub stats](https://github-readme-stats.vercel.app/api?username=thuyrx&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyrx&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
