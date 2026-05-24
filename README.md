@@ -1,46 +1,57 @@
-# Olá, Eu sou o Thiago Rafael 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27B2F6&center=true&vCenter=true&width=600&lines=Olá,+Eu+sou+o+Thiago+Rafael+👋;Desenvolvedor+Full-Stack;Ciência+da+Computação+|+UNINORTE;Entusiasta+de+Cibersegurança+e+IA" alt="Typing SVG" />
+</div>
 
-<a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thiago-rafael-da-silva-liborio-b0707b186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-### Sobre Mim
-Estudante de Ciência da Computação apaixonado por tecnologia, segurança e por criar soluções que impactam o mundo real. Atualmente, concilio o desenvolvimento de software com a prática em infraestrutura e operações de rede.
-
-- 🎓 Graduando em **Ciência da Computação** no UNINORTE.
-- 💻 Atuando com **Suporte de TI e NOC** (Centro de Operações de Rede) na SSP-AM.
-- 🚀 Focado no ecossistema **Full-Stack** (React, Next.js, Python, Supabase).
-- 🔒 Estudando ativamente **Cibersegurança**, Forense Digital, OSINT e ambientes Linux.
-- 🤖 Explorando a integração de **Inteligência Artificial (LLMs locais e Gemini)** em sistemas de gestão e segurança.
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-**Desenvolvimento Full-Stack:** ![TypeScript](https://img.shields.io/badge/typescript-%230074c1.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Banco de Dados & Infraestrutura:** ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-rafael-da-silva-liborio-b0707b186/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:thynamite408@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-### 🚀 O que estou construindo
+## 👨‍💻 Sobre Mim
 
-* **Campus Seguro:** Plataforma de relatórios de incidentes com integração de IA para processamento de denúncias.
-* **IT Asset Management System:** Sistema Full-Stack focado no rastreamento de hardware e gestão da cadeia de custódia.
-* **Vision Guide:** Dispositivo assistivo baseado em Arduino, projeto vencedor de 1º lugar em feira de tecnologia.
+Sou um desenvolvedor focado em criar soluções que integram software, infraestrutura e segurança. Atualmente, aplico meus conhecimentos no setor público e no desenvolvimento de sistemas completos.
+
+- 🎓 Graduando em **Ciência da Computação** no Centro Universitário do Norte (UNINORTE).
+- 💼 Atuando no **Centro de Operações de Rede (NOC) e Suporte de TI** na SSP-AM.
+- 🌱 Aprofundando estudos em **Cibersegurança (Ethical Hacking, Forense, OSINT)** em ambientes corporativos e laboratórios Linux.
+- 🚀 Integrando modelos de **Inteligência Artificial (Ollama, Llama 3, Gemini)** em aplicações práticas de gestão.
+- 🏍️ Fora das telas, sou entusiasta de motociclismo esportivo e games.
 
 ---
 
-### 📊 Minhas Estatísticas GitHub
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thuyrx&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuyrx&theme=dracula&hide_border=true" width="48%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,supabase,postgres,prisma,linux,arduino" alt="Minhas Skills" />
+  </a>
+</div>
+
+---
+
+## 🚀 Principais Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------|
+| 🛡️ **Campus Seguro** | Plataforma de relatórios de incidentes focada em segurança, com integração de LLMs para processamento de denúncias. | `Next.js`, `Python`, `IA` |
+| 📦 **IT Asset Management** | Sistema Full-Stack para rastreamento de hardware, gestão de inventário corporativo e cadeia de custódia. | `React`, `Supabase`, `SQL` |
+| 👁️ **Vision Guide** | Dispositivo assistivo IoT. Projeto acadêmico vencedor do 1º lugar em feira de tecnologia local. | `Arduino`, `C/C++` |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Thuyrx">
+    <img src="https://github-readme-stats.vercel.app/api?username=Thuyrx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  </a>
+  <a href="https://github.com/Thuyrx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thuyrx&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </div>
