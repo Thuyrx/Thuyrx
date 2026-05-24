@@ -48,6 +48,5 @@ Sou um desenvolvedor focado em criar soluções que integram software, infraestr
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thuyrx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" alt="Estatísticas do GitHub de Thuyrx" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuyrx&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak de Thuyrx" />
 </div>
