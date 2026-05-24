@@ -1,25 +1,46 @@
-### Olá, Eu sou o Thiago Rafael 🖐️
+# Olá, Eu sou o Thiago Rafael 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thuy_rx/) 
+<a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/thiago-rafael-da-silva-liborio-b0707b186/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Thuyrx GitHub stats](https://github-readme-stats.vercel.app/api?username=thuyrx&show_icons=true&theme=tokyonight)
+### Sobre Mim
+Estudante de Ciência da Computação apaixonado por tecnologia, segurança e por criar soluções que impactam o mundo real. Atualmente, concilio o desenvolvimento de software com a prática em infraestrutura e operações de rede.
 
-## Tecnologias que eu uso no meu dia
+- 🎓 Graduando em **Ciência da Computação** no UNINORTE.
+- 💻 Atuando com **Suporte de TI e NOC** (Centro de Operações de Rede) na SSP-AM.
+- 🚀 Focado no ecossistema **Full-Stack** (React, Next.js, Python, Supabase).
+- 🔒 Estudando ativamente **Cibersegurança**, Forense Digital, OSINT e ambientes Linux.
+- 🤖 Explorando a integração de **Inteligência Artificial (LLMs locais e Gemini)** em sistemas de gestão e segurança.
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=wh" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
- </div><br/>
+---
 
-Apaixonado por tecnologia, educacão e por mudar a vida das pessoas através da programação.
+### 💻 Tecnologias e Ferramentas
+
+**Desenvolvimento Full-Stack:** ![TypeScript](https://img.shields.io/badge/typescript-%230074c1.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Banco de Dados & Infraestrutura:** ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+### 🚀 O que estou construindo
+
+* **Campus Seguro:** Plataforma de relatórios de incidentes com integração de IA para processamento de denúncias.
+* **IT Asset Management System:** Sistema Full-Stack focado no rastreamento de hardware e gestão da cadeia de custódia.
+* **Vision Guide:** Dispositivo assistivo baseado em Arduino, projeto vencedor de 1º lugar em feira de tecnologia.
+
+---
+
+### 📊 Minhas Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thuyrx&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuyrx&theme=dracula&hide_border=true" width="48%" />
+</div>
