@@ -1,7 +1,7 @@
 # Olá, Eu sou o Thiago Rafael 👋
 
 <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="[https://linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/thiago-rafael-da-silva-liborio-b0707b186/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiago-rafael-da-silva-liborio-b0707b186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### Sobre Mim
 Estudante de Ciência da Computação apaixonado por tecnologia, segurança e por criar soluções que impactam o mundo real. Atualmente, concilio o desenvolvimento de software com a prática em infraestrutura e operações de rede.
