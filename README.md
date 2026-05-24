@@ -1,8 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27B2F6&center=true&vCenter=true&width=600&lines=Olá,+Eu+sou+o+Thiago+Rafael+👋;Desenvolvedor+Full-Stack;Ciência+da+Computação+|+UNINORTE;Entusiasta+de+Cibersegurança+e+IA" alt="Typing SVG" />
-</div>
+# Olá, Eu sou o Thiago Rafael 👋
 
-<p align="center">
+🧑‍💻 **Sobre Mim**
+Sou um desenvolvedor apaixonado por criar soluções robustas que integram software, infraestrutura e segurança. Atualmente, sou estudante de Ciência da Computação (UNINORTE) e atuo no Centro de Operações de Rede (NOC) e Suporte de TI na SSP-AM. Tenho forte interesse no ecossistema Full-Stack (React, Python, Supabase), em Cibersegurança (Forense e OSINT em ambientes Linux) e na integração de Inteligência Artificial para otimizar processos de gestão. Priorizo boas práticas, segurança e resolução ágil de problemas em cada projeto.
+
+✨ **Curiosidades (Fora das Telas)**
+No meu tempo livre, sou um grande entusiasta de motociclismo esportivo e customização (adoro modelos como a Yamaha R3). Também gosto de relaxar jogando games de simulação e ação-aventura, e levo a sério minha rotina de treinos na academia para manter o equilíbrio entre mente e corpo.
+
+🌎 **Vamos nos Conectar e Crescer Juntos!**
+<p>
   <a href="https://www.linkedin.com/in/thiago-rafael-da-silva-liborio-b0707b186/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,40 +21,24 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+### 🚀 Projetos em Destaque
 
-Sou um desenvolvedor focado em criar soluções que integram software, infraestrutura e segurança. Atualmente, aplico meus conhecimentos no setor público e no desenvolvimento de sistemas completos.
+**Campus Seguro** 🛡️
+- **Description:** Plataforma de relatórios de incidentes focada em segurança universitária, com integração de IA para processamento e análise automática de denúncias.
+- **[ Tecs ]:** Next.js, Python, Modelos LLMs (Ollama, Gemini).
 
-- 🎓 Graduando em **Ciência da Computação** no Centro Universitário do Norte (UNINORTE).
-- 💼 Atuando no **Centro de Operações de Rede (NOC) e Suporte de TI** na SSP-AM.
-- 🌱 Aprofundando estudos em **Cibersegurança (Ethical Hacking, Forense, OSINT)** em ambientes corporativos e laboratórios Linux.
-- 🚀 Integrando modelos de **Inteligência Artificial (Ollama, Llama 3, Gemini)** em aplicações práticas de gestão.
-- 🏍️ Fora das telas, sou entusiasta de motociclismo esportivo e games.
+**IT Asset Management System** 📦
+- **Description:** Sistema Full-Stack para rastreamento de hardware, gestão de inventário corporativo e documentação de cadeia de custódia do NOC.
+- **[ Tecs ]:** React, Supabase, PostgreSQL.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,supabase,postgres,prisma,linux,arduino" alt="Minhas Skills" />
-  </a>
-</div>
+**Vision Guide** 👁️
+- **Description:** Dispositivo assistivo de hardware desenvolvido para auxiliar na acessibilidade. Projeto acadêmico vencedor do 1º lugar em feira de tecnologia.
+- **[ Tecs ]:** Arduino, C/C++.
 
 ---
 
-## 🚀 Principais Projetos
+### 📊 Estatísticas
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------|
-| 🛡️ **Campus Seguro** | Plataforma de relatórios de incidentes focada em segurança, com integração de LLMs para processamento de denúncias. | `Next.js`, `Python`, `IA` |
-| 📦 **IT Asset Management** | Sistema Full-Stack para rastreamento de hardware, gestão de inventário corporativo e cadeia de custódia. | `React`, `Supabase`, `SQL` |
-| 👁️ **Vision Guide** | Dispositivo assistivo IoT. Projeto acadêmico vencedor do 1º lugar em feira de tecnologia local. | `Arduino`, `C/C++` |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuyrx&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak de Thuyrx" />
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuyrx&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak de Thuyrx" />
+</p>
